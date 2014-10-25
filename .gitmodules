@@ -1,0 +1,3 @@
+[submodule "SysCore"]
+	path = SysCore
+	url = https://github.com/kubaszostak/SysCore.git
